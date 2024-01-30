@@ -1,8 +1,8 @@
 # CSE108-LABS
 # C Programming
 <p align="center">
-<img src="codecode.png"
-/>
+  <a href="https://www.linkedin.com/in/yusuf-emre-kılıçer-5ab0231a7/">
+  </a>
 </p>
 
 # Homework
