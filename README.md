@@ -1,7 +1,8 @@
 # CSE108-LABS
 # C Programming
 <p align="center">
-<img src="[others/c_logo.png](https://github.com/emretechno/CSE108-LABS/blob/main/codecode.jpg)" />
+<img src="" ![codecode](https://github.com/emretechno/CSE108-LABS/assets/118773646/792a649b-afe3-4767-b403-694dec9c0c62)
+/>
 </p>
 
 # Homework
