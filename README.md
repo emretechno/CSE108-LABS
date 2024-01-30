@@ -1,8 +1,9 @@
 # CSE108-LABS
 # C Programming
 <p align="center">
-  <a href="https://www.linkedin.com/in/yusuf-emre-kılıçer-5ab0231a7/">
-     "  Click for My LinkedIn Profile " 
+  <a href="https://www.linkedin.com/in/yusuf-emre-kılıçer-5ab0231a7/" download="YUSUF-EMRE CV.pdf">
+    < alt="Click Here To Acces My LinkedIn Profile" 
+    <br> Please Click Here To Download My CV
   </a>
 </p>
 
