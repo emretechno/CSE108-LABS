@@ -2,7 +2,7 @@
 # C Programming
 <p align="center">
   <a href="https://www.linkedin.com/in/yusuf-emre-kılıçer-5ab0231a7/">
-     " Click for My LinkedIn Profile " />
+     "  Click for My LinkedIn Profile " 
   </a>
 </p>
 
